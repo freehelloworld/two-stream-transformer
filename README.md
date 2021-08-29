@@ -1,5 +1,5 @@
 # Two stream transformer
-In light of two papers [Attention is all you need](https://arxiv.org/abs/1706.03762) and [An image is worth 16*16 words](https://arxiv.org/abs/2010.11929), this work extends the Transformer network to handle video input. Briefly, video is viewed as a bunch of sequences among which self-attention is calculated.
+In the light of the two papers [Attention is all you need](https://arxiv.org/abs/1706.03762) and [An image is worth 16*16 words](https://arxiv.org/abs/2010.11929), this work extends the Transformer network to handle video input. Briefly, video is viewed as a bunch of sequences among which self-attention is calculated.
 
 ## Network architecture
 ![Architecture](./tst_archi.png)
